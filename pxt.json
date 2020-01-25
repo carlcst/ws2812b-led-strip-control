@@ -1,0 +1,20 @@
+{
+    "name": "ws2812b LED strip control",
+    "description": "",
+    "dependencies": {
+        "adafruit-metro-m0-express": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
